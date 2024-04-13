@@ -1,0 +1,36 @@
+{
+  "Tours":[
+  {
+	"name":"KERALA",
+	"imgUrl":"https://static.india.com/wp-content/uploads/2019/01/Munnar.jpgimpolicy=Medium_Resize&w=1200&h=800",
+	"price":"4000"
+  },
+  {
+	"name":"GOA",
+	"imgUrl":"https://mygate.com/wp-content/uploads/2023/08/159.jpg",
+	"price":"5000"
+   },
+   {
+	"name":"KASHMIR",
+	"imgUrl":"https://media.cntraveler.com/photos/643d5d0a5722b1af03793a06/16:9/w_2560%2Cc_limit/Dal%2520Lake_GettyImages-1323846766.jpg",
+	"price":"8000"
+   },
+   {
+     	"name":"HYDERABAD",
+	"imgUrl":"https://cdn.britannica.com/77/22877-050-9EFB35D4/Charminar-city-Hyderabad-India-Telangana.jpg",
+	"price":"8000"
+   },
+   {
+       "name":"KARNATAKA",
+       "imgUrl":" https://miro.medium.com/v2/resize:fit:2000/1*cRXBdAU7GfoTQI0x_mokUw.png",
+       "price":"7500"
+   },
+   {
+	"name":"MUMBAI",
+   	"imgUrl":"https://media.timeout.com/images/105241451/image.jpg",
+       	"price":"500"
+   }
+  ]
+}
+        
+  

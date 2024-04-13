@@ -1,0 +1,13 @@
+*
+{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+.heading
+{
+  margin-left:50px;
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+}
